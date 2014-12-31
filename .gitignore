@@ -1,0 +1,4 @@
+# Every PDF file is ignored
+*.pdf
+# Every midi file is ignored
+*.midi

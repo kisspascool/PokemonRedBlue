@@ -28,6 +28,7 @@ short-indent = 15\mm
 global = {
  \tempo 4=140
  \set Score.markFormatter = #format-mark-box-alphabet
+ \compressFullBarRests
 }
 
 ignore = \override NoteColumn #'ignore-collision = ##t

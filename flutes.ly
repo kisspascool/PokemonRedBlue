@@ -366,7 +366,7 @@ PartPTwoVoiceOne =  \relative d'' { %flute 2
   es2 f2 | % 318
   R1 \bar "||"
   \key g \major 
-  \numericTimeSignature\time 4/4  R1*7 | % 379
+  \numericTimeSignature\time 4/4  R1*8 | % 379
   r2 r4 r8 r16 r32 ais,32 \mf | 
   b8 -. g8 -. g8 -. r16. d32 e8 -. g8 -. g8 -. r16. ais32 | % 381
   b8 -. g8 -. g8 -. r8 ges16 f16 e16 es16 d8 r16. ais'32 | % 382

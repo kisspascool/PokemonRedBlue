@@ -1,6 +1,6 @@
 
 \book {
-  \bookOutputName "Flute 1"
+  \bookOutputName "pdf/Flute 1"
   \paper {
     #(set-paper-size "a4")
   }
@@ -18,7 +18,7 @@
 }
 
 \book {
-  \bookOutputName "Flute 2"
+  \bookOutputName "pdf/Flute 2"
   \paper {
     #(set-paper-size "a4")
   }
@@ -36,7 +36,7 @@
 }
 
 \book {
-  \bookOutputName "Clarinette 1"
+  \bookOutputName "pdf/Clarinette 1"
   \paper {
     #(set-paper-size "a4")
   }
@@ -54,7 +54,7 @@
 }
 
 \book {
-  \bookOutputName "Clarinette 2"
+  \bookOutputName "pdf/Clarinette 2"
   \paper {
     #(set-paper-size "a4")
   }
@@ -72,7 +72,7 @@
 }
 
 \book {
-  \bookOutputName "Saxophone Alto 1"
+  \bookOutputName "pdf/Saxophone Alto 1"
   \paper {
     #(set-paper-size "a4")
   }
@@ -91,7 +91,7 @@
 
 
 \book {
-  \bookOutputName "Saxophone Alto 2"
+  \bookOutputName "pdf/Saxophone Alto 2"
   \paper {
     #(set-paper-size "a4")
   }
@@ -110,7 +110,7 @@
 
 
 \book {
-  \bookOutputName "Saxophone Tenor"
+  \bookOutputName "pdf/Saxophone Tenor"
   \paper {
     #(set-paper-size "a4")
   }
@@ -128,7 +128,7 @@
 }
 
 \book {
-  \bookOutputName "Trompette Bb 1"
+  \bookOutputName "pdf/Trompette Bb 1"
   \paper {
     #(set-paper-size "a4")
   }
@@ -146,7 +146,7 @@
 }
 
 \book {
-  \bookOutputName "Trompette Bb 2"
+  \bookOutputName "pdf/Trompette Bb 2"
   \paper {
     #(set-paper-size "a4")
   }
@@ -164,7 +164,7 @@
 }
 
 \book {
-  \bookOutputName "Violons 1"
+  \bookOutputName "pdf/Violons 1"
   \paper {
     #(set-paper-size "a4")
   }
@@ -183,7 +183,7 @@
 }
 
 \book {
-  \bookOutputName "Violons 2"
+  \bookOutputName "pdf/Violons 2"
   \paper {
     #(set-paper-size "a4")
   }
@@ -201,7 +201,7 @@
 }
 
 \book {
-  \bookOutputName "Violoncelle"
+  \bookOutputName "pdf/Violoncelle"
   \paper {
     #(set-paper-size "a4")
   }
@@ -219,7 +219,7 @@
 }
 
 \book {
-  \bookOutputName "Contrebasse"
+  \bookOutputName "pdf/Contrebasse"
   \paper {
     #(set-paper-size "a4")
   }
@@ -237,7 +237,7 @@
 }
 
 \book {
-  \bookOutputName "Piano"
+  \bookOutputName "pdf/Piano"
   \paper {
     #(set-paper-size "a4")
   }
@@ -261,7 +261,7 @@
 }
 
 \book {
-  \bookOutputName "Timbales"
+  \bookOutputName "pdf/Timbales"
   \paper {
     #(set-paper-size "a4")
   }
@@ -282,7 +282,7 @@
 }
 
 \book {
-  \bookOutputName "Percussion"
+  \bookOutputName "pdf/Percussion"
   \paper {
     #(set-paper-size "a4")
   }

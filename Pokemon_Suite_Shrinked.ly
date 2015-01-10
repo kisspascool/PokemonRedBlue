@@ -53,6 +53,8 @@ ignore = \override NoteColumn #'ignore-collision = ##t
 
 
 % The score definition : conducteur
+\book {
+  \bookOutputName "pdf/Score"
 \score {
   <<
    \new StaffGroup <<
@@ -258,6 +260,6 @@ ignore = \override NoteColumn #'ignore-collision = ##t
   % To create MIDI output, uncomment the following line:
    \midi {}
 }
-
+}
 % Parties séparées
 \include "GenSepPart.ly"
